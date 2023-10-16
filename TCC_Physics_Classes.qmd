@@ -1,0 +1,68 @@
+# Physics Classes
+
+[Link for TCC course details](https://courses.vccs.edu/colleges/tcc/courses/PHY-Physics) 
+
+## PHY 100
+Covers basic concepts of physics, including Newtonian mechanics, properties of matter, heat transfer, waves, fundamental behavior of gases, optics, ionizing radiation, and fundamentals of electricity and magnetism. The assignments in the course require college-level reading fluency, coherent written communication, application of arithmetic, exponents, and algebraic skills such as solving for an unknown variable in an equation, and finding the slope and intercept from the equation of a line. This is a Passport and UCGS transfer course.
+
+Lecture 3 hours. Laboratory 3 hours. Total 6 hours per week.
+4 credits
+
+
+## PHY 195
+
+Provides an opportunity to explore topical areas of interest to or needed by students.
+
+May be used also for special honors courses. May be repeated for credit. Variable hours.
+
+1-5 credits
+
+
+## PHY 201
+Covers classical mechanics and thermodynamics. Includes kinematics, Newton's laws of motion, work, energy, momentum, rotational kinematics, dynamic and static equilibrium, elasticity, gravitation, fluids, simple harmonic motion, calorimetry, ideal gas law, and the laws of thermodynamics. Part I of II. This is a UCGS transfer course.
+
+Lecture 3 hours. Laboratory 3 hours. Total 6 hours per week.
+
+Prerequisite: MTH 161 or MTH 167 with a grade of C or better.
+
+4 credits
+
+## PHY 202
+
+Covers waves, electromagnetism, optics, and modern physics. Includes mechanical waves, sound, electrostatics, Ohm's law and DC circuits, magnetic forces and magnetic fields, electromagnetic induction, ray optics, wave optics, and selected topics of modern physics. Part II of II. This is a UCGS transfer course.
+
+Lecture 3 hours. Laboratory 3 hours. Total 6 hours per week.
+
+Prerequisite: PHY 201 with a grade of C or better and MTH 162 or MTH 167 with a grade of C or better.
+
+4 credits
+
+
+
+## PHY 241
+
+Covers classical mechanics and thermodynamics. Includes kinematics, Newton's laws of motion, work, energy, momentum, rotational kinematics, dynamics and static equilibrium, elasticity, gravitation, fluids, simple harmonic motion, calorimetry, ideal gas law, and the laws of thermodynamics. Part I of II. This is a UCGS transfer course.
+
+Lecture 3 hours. Laboratory 3 hours. Total 6 hours per week.
+
+Prerequisites: MTH 263 with a grade of C or better.
+
+4 credits
+
+## PHY 242
+
+Covers waves, electromagnetism and optics. Includes mechanical waves and sound, electrostatics, Ohm's law and DC circuits, magnetic forces and magnetic fields, electromagnetic induction, AC circuits, ray optics, and wave optics. Part II of II. This is a UCGS transfer course.
+
+Lecture 3 hours. Laboratory 3 hours. Total 6 hours per week.
+
+Prerequisites: PHY 241 with a grade of C or better and MTH 264 with a grade of C or better.
+
+4 credits
+
+
+
+## NAS 130
+
+## NAS 131
+
+## NAS 132

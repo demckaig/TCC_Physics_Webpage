@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "TCC Physics Department"
+  body-header: | 
+    A still more glorious dawn awaits. Not a sunrise, but a galaxy rise. A morning filled with 400 billions suns.
+  margin-header: |
+    ![](tcc_logo.png)
+  sidebar:
+    style: "docked"
+    search: true
+    contents: 
+      - index.qmd
+      - TCC_Physics_Classes.qmd
+      - Planetarium.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

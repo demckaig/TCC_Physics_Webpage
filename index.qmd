@@ -1,0 +1,125 @@
+---
+title: "TCC Physics Department"
+---
+
+# Physics Faculty
+
+:::: {.columns}
+::: {.column width="51%"}
+::: {.callout-note icon=false}
+## Dr. Denise McKaig (Department Chair)
+
+
+:::: {.columns}
+
+::: {.column width="30%"}
+<br>
+[![](figures/mandelbrot_set.jpg){width=125px}](https://commons.wikimedia.org/wiki/File:Mandel_zoom_00_mandelbrot_set.jpg)
+:::
+::: {.column width="45%"}
+
+<br>
+
+| | |
+|-|-|
+|![](figures/reduce-email.png)| [dmckaig@tcc.edu](dmckaig@tcc.edu)   |
+|![](figures/reduce-phone.png)| 757-822-7121 |
+|![](figures/reduce-globe.png)| -- |
+|![](figures/Office_(51347)_-_The_Noun_Project.svg)| Science Building JC18 |
+: {tbl-colwidths="[20,75]"}
+::: 
+:::
+::::
+:::
+::::
+
+:::: {.columns}
+::: {.column width="51%"}
+::: {.callout-note icon=false}
+## Leah Flax
+
+
+:::: {.columns}
+
+::: {.column width="30%"}
+<br>
+[![](figures/Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg){width=125px}](https://en.wikipedia.org/wiki/File:Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg)
+:::
+::: {.column width="45%"}
+
+<br>
+
+| | |
+|-|-|
+|![](figures/reduce-email.png)| lflax@tcc.edu[](lflax@tcc.edu)   |
+|![](figures/reduce-phone.png)| -- |
+|![](figures/reduce-globe.png)| -- |
+|![](figures/Office_(51347)_-_The_Noun_Project.svg)| Science Building JC19 |
+: {tbl-colwidths="[20,75]"}
+::: 
+:::
+::::
+:::
+::::
+
+:::: {.columns}
+::: {.column width="51%"}
+::: {.callout-note icon=false}
+## Kevin Mitchell
+
+
+:::: {.columns}
+
+::: {.column width="30%"}
+<br>
+[![](figures/Fixed-pulley-as-first-class-lever.svg){width=125px}](https://commons.wikimedia.org/wiki/File:Fixed-pulley-as-first-class-lever.svg)
+:::
+::: {.column width="45%"}
+
+<br>
+
+| | |
+|-|-|
+|![](figures/reduce-email.png)| [kmitchell@tcc.edu](kmitchell@tcc.edu) |
+|![](figures/reduce-phone.png)| -- |
+|![](figures/reduce-globe.png)| -- |
+|![](figures/Office_(51347)_-_The_Noun_Project.svg)| Science Building JC20 |
+: {tbl-colwidths="[20,75]"}
+::: 
+:::
+::::
+:::
+::::
+
+:::: {.columns}
+::: {.column width="51%"}
+::: {.callout-note icon=false}
+## William Younger
+
+
+:::: {.columns}
+
+::: {.column width="30%"}
+<br>
+[![](figures/Penguin_diagram.JPG){width=125px}](https://commons.wikimedia.org/wiki/File:Penguin_diagram.JPG)
+:::
+::: {.column width="45%"}
+
+<br>
+
+| | |
+|-|-|
+|![](figures/reduce-email.png)|[wyounger@tcc.edu](wyounger@tcc.edu)    |
+|![](figures/reduce-phone.png)| 757-822-7691 |
+|![](figures/reduce-globe.png)| -- |
+|![](figures/Office_(51347)_-_The_Noun_Project.svg)| Science Building JC24 |
+: {tbl-colwidths="[20,75]"}
+::: 
+:::
+::::
+:::
+::::
+
+
+
+## Physics Adjucts
